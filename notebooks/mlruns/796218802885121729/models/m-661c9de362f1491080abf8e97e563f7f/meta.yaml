@@ -1,0 +1,10 @@
+artifact_location: file:///Users/azhadarshad/Desktop/PROJECTS/mlops-iris/notebooks/mlruns/796218802885121729/models/m-661c9de362f1491080abf8e97e563f7f/artifacts
+creation_timestamp: 1754928553064
+experiment_id: '796218802885121729'
+last_updated_timestamp: 1754928554761
+model_id: m-661c9de362f1491080abf8e97e563f7f
+model_type: null
+name: LogisticRegression
+source_run_id: a8101141346d487a963c465e9b4669b4
+status: 2
+status_message: null

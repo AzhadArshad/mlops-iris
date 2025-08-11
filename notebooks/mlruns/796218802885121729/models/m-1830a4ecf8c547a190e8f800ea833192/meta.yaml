@@ -1,0 +1,10 @@
+artifact_location: file:///Users/azhadarshad/Desktop/PROJECTS/mlops-iris/notebooks/mlruns/796218802885121729/models/m-1830a4ecf8c547a190e8f800ea833192/artifacts
+creation_timestamp: 1754928554844
+experiment_id: '796218802885121729'
+last_updated_timestamp: 1754928556274
+model_id: m-1830a4ecf8c547a190e8f800ea833192
+model_type: null
+name: RandomForest
+source_run_id: 1ba6eec09d2a4246b2ff20ee2c61ab92
+status: 2
+status_message: null

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/azhadarshad/Desktop/PROJECTS/mlops-iris/notebooks/mlruns/796218802885121729
+creation_time: 1754899409387
+experiment_id: '796218802885121729'
+last_update_time: 1754899409387
+lifecycle_stage: active
+name: iris_experiment

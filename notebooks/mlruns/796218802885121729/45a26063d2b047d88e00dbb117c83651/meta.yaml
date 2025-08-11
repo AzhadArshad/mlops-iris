@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/azhadarshad/Desktop/PROJECTS/mlops-iris/notebooks/mlruns/796218802885121729/45a26063d2b047d88e00dbb117c83651/artifacts
+end_time: 1754923134785
+entry_point_name: ''
+experiment_id: '796218802885121729'
+lifecycle_stage: active
+run_id: 45a26063d2b047d88e00dbb117c83651
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754923132628
+status: 3
+tags: []
+user_id: azhadarshad

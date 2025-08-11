@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/azhadarshad/Desktop/PROJECTS/mlops-iris/notebooks/mlruns/796218802885121729/1ba6eec09d2a4246b2ff20ee2c61ab92/artifacts
+end_time: 1754928556296
+entry_point_name: ''
+experiment_id: '796218802885121729'
+lifecycle_stage: active
+run_id: 1ba6eec09d2a4246b2ff20ee2c61ab92
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754928554791
+status: 3
+tags: []
+user_id: azhadarshad
